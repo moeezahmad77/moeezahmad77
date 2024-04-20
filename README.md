@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Mobile Application Development & Backend**
 - :zap: Learning and growing every day
-- 📫 How to reach me **ahmad.moeez77@gmail.com** or **moeezahmad1998@gmail.com**
+- 📫 How to reach me **moeez.ahmad.dev127@gmail.com** or **moeezahmad1998@gmail.com**
 
 ## Programming Languages  
 <div align="center">  
